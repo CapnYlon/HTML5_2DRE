@@ -1,5 +1,3 @@
-// All Rights released
-//
 // This source is subject to the MIT License.
 // GO HAVE FUN WITH IT
 //
