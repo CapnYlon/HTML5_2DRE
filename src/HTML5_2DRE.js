@@ -1,8 +1,7 @@
-// Copyright (c) 2012 All Right Reserved, Eracle Software and Thomas van der Berg
+// All Rights released
 //
-// This source is subject to the Eracle License.
-// Please see the license page on http://eraclesoftware.com/legal/ file for more information.
-// All other rights reserved.
+// This source is subject to the MIT License.
+// GO HAVE FUN WITH IT
 //
 // THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
 // KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
@@ -10,7 +9,7 @@
 // PARTICULAR PURPOSE.
 //
 // authors:	Ylon Schaeffer, Thomas van der Berg
-// email:	yschaeffer@eraclesoftware.com, thomas.van.der.berg@hotmail.com
+// email:	ylon@eraclegames.com, thomas.van.der.berg@hotmail.com
 // date:	14-11-2012
 // summary:	Main initiator of the HTML5_2DREngine.
 
